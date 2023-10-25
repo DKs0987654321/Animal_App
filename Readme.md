@@ -1,7 +1,5 @@
 # Zoody
 
-<img src="images/logo.png" width="256" alt='logo'>
-
 
 ## Demo App
 
@@ -9,26 +7,19 @@
 - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Features](#features)
-  - [Screenshots](#screenshots)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 
 ## About
 
-The Zoody app makes it easy for children to grasp programming concepts and ignites their passion for technology. The app offers video lectures, puzzle-solving games, and jigsaw activities, all centered around programming topics. The app's goal is to impart diverse programming knowledge and encourage children to develop creative thinking, providing them with the ability to create intelligent and unique projects according to their interests.
+The Zoody app makes it easy for everyone, especially children to understand more about the animals. The app offers interesting information, amazing quizzes and challenging practices, all center around animal topic. Its goal is to provide users with an engaging and informative way to learn about the animal kingdom.
 
 ## Features
-- Lessons
-- Puzzle
+- Home
 - Quiz
-
-## Screenshots
-
-<p float='left'>
-<img src="images/home.png" width="45%" alt='screen1'>
-<img src="images/quiz.png" width="45%" alt='screen1'>
-</p>
+- Practice
+- Profile
 
 
 
@@ -47,7 +38,7 @@ The Zoody app makes it easy for children to grasp programming concepts and ignit
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/DKs0987654321/Animal_App
+git clone https://github.com/DKs0987654321/Animal_App.git
 cd expo-tech-app
 yarn
 yarn start
