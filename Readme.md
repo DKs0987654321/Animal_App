@@ -47,7 +47,7 @@ The Zoody app makes it easy for children to grasp programming concepts and ignit
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/akiyamahaa/expo-tech-app.git
+git clone https://github.com/DKs0987654321/Animal_App
 cd expo-tech-app
 yarn
 yarn start
